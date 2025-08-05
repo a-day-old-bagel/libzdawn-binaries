@@ -1,12 +1,13 @@
 .{
-    .name = .zdawn_x86_64_linux_gnu,
-    .fingerprint = 0x6ff12fc22f1eabb8,
+    .name = .zdawn_x86_64_windows_gnu,
+    .fingerprint = 0x7ec0b8b8d3a2f1dd,
     .version = "0.14.0-dev",
     .minimum_zig_version = "0.14.0",
     .paths = .{
         "build.zig",
         "build.zig.zon",
         "libwebgpu_dawn.a",
+        "libmingw_helpers.a",
         "README.md",
     },
 }
