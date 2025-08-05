@@ -1,1 +1,1 @@
-libzdawn-x86_64-linux-gnu
+libzdawn-x86_64-windows-gnu
