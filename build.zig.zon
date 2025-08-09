@@ -1,6 +1,6 @@
 .{
-    .name = .zdawn_x86_64_linux_gnu,
-    .fingerprint = 0x6ff12fc22f1eabb8,
+    .name = .zdawn_aarch_linux_gnu,
+    .fingerprint = 0xdde7cd7badb9a22f,
     .version = "0.14.0-dev",
     .minimum_zig_version = "0.14.0",
     .paths = .{
